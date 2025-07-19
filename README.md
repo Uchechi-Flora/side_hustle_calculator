@@ -1,4 +1,5 @@
 # side_hustle_calculator
+Live link: https://sidehustlecalculator-flora.streamlit.app/
 A simple Streamlit app that helps freelancers and side hustlers calculate how much to charge per project based on their:
 
 Ideal monthly income 💰
